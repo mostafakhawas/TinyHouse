@@ -17,11 +17,11 @@
   "dependencies": {
     "@googlemaps/google-maps-services-js": "^2.0.2",
     "apollo-server-express": "^2.10.1",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "cloudinary": "^1.19.0",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.4",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "googleapis": "^47.0.0",
     "graphql": "^14.6.0",
     "lodash.merge": "^4.6.2",
