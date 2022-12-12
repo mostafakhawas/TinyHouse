@@ -21,7 +21,7 @@
     "cloudinary": "^1.19.0",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^47.0.0",
     "graphql": "^14.6.0",
     "lodash.merge": "^4.6.2",
